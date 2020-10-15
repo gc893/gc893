@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m...
+- I’m Gabriela Cabrera and I'm...
   - 🔭 currently working on my portfolio
   - 🌱 currently learning Django
   - 👯 looking to collaborate on MERN stack or Django applications
